@@ -1,3 +1,5 @@
+Lockboxes
+
 For this project, you will need a solid understanding of several key concepts in order to develop a solution that can efficiently determine if all boxes can be opened. Here’s a list of concepts and resources that will be instrumental in tackling this project:
 
 Concepts Needed:
@@ -25,5 +27,4 @@ Set Operations:
 
 Understanding how to use sets for keeping track of visited boxes and available keys can optimize the search process.
 Python Sets (Python Official Documentation)
-By reviewing these concepts and utilizing these resources, you will be well-equipped to develop an efficient solution for this project, applying both your algorithmic thinking and Python programming skills.ALX Interview
-Dev_EAF
+By reviewing these concepts and utilizing these resources, you will be well-equipped to develop an efficient solution for this project, applying both your algorithmic thinking and Python programming skills.
